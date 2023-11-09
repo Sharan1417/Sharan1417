@@ -24,10 +24,9 @@
 - Cloud and virtualization:  Docker , VirtualBox, VMware 
 
 ## 🎖 Certifications
-
+- Introduction to Front-End Development | Meta | 2023
+- IBM Cloud Essentials | Edx | 2023
 - Complete Ethical Hacking Bootcamp | Udemy | 2023
-- Certified Ethical Hacker V11 (CEH) | Ec-Council | 2022
-- Advanced Data Structure and Algorithm | Extellon | 2022
 - RedHat System Administration (RH124) | 2022
 - Web Security & Bug Bounty | Udemy | 2021
 
@@ -39,7 +38,7 @@
 
 ## 🛠 Projects
 
-1. **Backdoor and server** (June 2023): Developed a python script for a backdoor and server.
-2. **Keylogger** (April 2022): Developed a Windows keylogging project in Python.
-3. **University management system** (March 2023): Developed a software using Python to manage university details.
-4. **Automatic Currency Converter** (February 2022): Designed an automated bot using Selenium and Python.
+1. **Movie Ticket Booking App** (Nov 2023): Developed a feature-rich iOS app using Xcode to book movie tickets.
+2. **Keylogger** (April 2023): Developed a Windows keylogging project in Python.
+3. **Fitness DB Masters** (Jan 2023): Designed a web application using HTML,CSS and Javascript.
+4. **Super Market Billing System** (February 2022): Developed a billing application using C++.
