@@ -3,7 +3,7 @@
 📞 Phone: +91 9947921259 | 📧 Email: sharanbabu40@gmail.com
 📍 Location: Kannur, Kerala
 
-🎓 I'm a **B. Tech Computer Science and Engineering (Hons)** student at Lovely Professional University, Phagwara, Punjab with a CGPA of 7.36.
+🎓 I'm a **B. Tech Computer Science and Engineering (Hons)** student at Lovely Professional University, Phagwara, Punjab with a CGPA of 7.43.
 
 🔭 I'm currently working on various projects related to cybersecurity, and networking.
 
